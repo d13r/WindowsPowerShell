@@ -2,7 +2,7 @@
 
 ## Installation
 
-In WSL (since I don't have Git installed in PowerShell)::
+In WSL (since I don't have Git installed in PowerShell):
 
 ```bash
 git clone git@git.djm.me:dave/powershell.git /mnt/d/WindowsPowerShell
